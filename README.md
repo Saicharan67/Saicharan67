@@ -1,5 +1,5 @@
 ## Heyy there..This is Charan..! 👋 
-![logo](https://drive.google.com/file/d/1V1NpDBqBGZbeROXyntck-ekFp4zzcyoz/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1V1NpDBqBGZbeROXyntck-ekFp4zzcyoz/view?usp=sharing" width="250">
 
 
 
