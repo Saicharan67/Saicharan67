@@ -1,4 +1,4 @@
-## Heyy there..This is Charan..! 👋 ![alt text](https://drive.google.com/file/d/1V1NpDBqBGZbeROXyntck-ekFp4zzcyoz/view?usp=sharing)
+## Heyy there..This is Charan..! 👋 [logo](https://drive.google.com/file/d/1V1NpDBqBGZbeROXyntck-ekFp4zzcyoz/view?usp=sharing)
 
 
 
