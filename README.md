@@ -1,7 +1,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 GEEKERS<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sai Charan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mahankalisaicharan/)](https://www.linkedin.com/in/mahankali-sai-charan-b89054176/) 
-[![Gmail Badge](https://img.shields.io/badge/-mahankalisaicharan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahankalisaicharan@gmail.com)](mailto:mahankalisaicharan@gmail.com)
+
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/mahankali-sai-charan-b89054176/)
+[![Mahankalisaicharan@gmail](https://img.shields.io/static/v1?label=mahankalisaicharan@gmail.com.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:mahankalisaicharan@gmail.com)
 
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
