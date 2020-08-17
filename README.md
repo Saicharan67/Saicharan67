@@ -13,6 +13,8 @@
 - Backend development using **Django**
 - Competitive Programming using **Python, C, C++**
 - Machine Learning
-- Portfolio site: [Portfolio](https://saicharan67.github.io/PortFolio/)
+- My Portfolio site: [Portfolio](https://saicharan67.github.io/PortFolio/)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=saicharan67&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
 
