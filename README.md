@@ -7,7 +7,7 @@
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=saicharan67&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+![Charans's github stats](https://github-readme-stats.vercel.app/api?username=Saicharan67&show_icons=true&theme=radical)
 
 ## 😃 Talk to me about!!
 
