@@ -10,7 +10,7 @@
 ![Charans's github stats](https://github-readme-stats.vercel.app/api?username=Saicharan67&show_icons=true&theme=radical)
 
 
-## 😃 Talk to me about!!
+# 😃 Talk to me about!!
 
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React JS**
 - Backend development using **Django**
