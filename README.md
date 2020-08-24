@@ -13,7 +13,7 @@
 # 😃😁 Talk to me about!!
 
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React JS**
-- Backend development using **Django**
+
 - Competitive Programming using **Python, C, C++**
 - Machine Learning
 - My Portfolio site: [Portfolio](https://saicharan67.github.io/PortFolio/)
