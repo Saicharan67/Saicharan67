@@ -12,7 +12,7 @@
 
 # 😃😁 Talk to me about!!!
 
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, React JS**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React JS, Jekyll**
 
 - Competitive Programming using **Python, C, C++**
 - Machine Learning
