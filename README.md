@@ -12,9 +12,9 @@
 
 # 😃😁 Talk to me about!!!
 
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, React JS, Jekyll**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React JS, Redux, Jekyll**
 
-- Competitive Programming using **Python, C, C++**
+- Competitive Programming using **Python, C++**
 - Machine Learning
 - My Portfolio site: [Portfolio](https://saicharan67.github.io/PortFolio/)
 
