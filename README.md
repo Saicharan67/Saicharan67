@@ -30,7 +30,7 @@
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Saicharan67&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+<img  src="https://github-readme-stats.vercel.app/api?username=Saicharan67&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444"  height="190">
 
 </a>
 
