@@ -66,11 +66,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-713699%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-713808%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 317 Contributions in the Year 2021
+> 🏆 318 Contributions in the Year 2021
  > 
 > 📦 117.2 kB Used in Github's Storage 
  > 
@@ -93,8 +93,8 @@
 
 ```text
 Monday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
-Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Wednesday    104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
+Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
 Thursday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
 Friday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
 Saturday     108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
@@ -109,7 +109,7 @@ Sunday       99 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💻 Operating System: 
-Windows                  4 hrs 15 mins       █████████████████████████   100.0%
+Windows                  5 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
@@ -130,7 +130,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Saicharan67/Saicharan67/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
   
   
