@@ -1,5 +1,5 @@
 
-<h1  align="center">
+<h2  align="center">
 
 <a  href="https://git.io/typing-svg">
 
@@ -7,7 +7,7 @@
 
 </a>
 
-</h1>
+</h2>
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/mahankali-sai-charan-b89054176/)
 [![Mahankalisaicharan@gmail](https://img.shields.io/static/v1?label=mahankalisaicharan@gmail.com.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:mahankalisaicharan@gmail.com)
