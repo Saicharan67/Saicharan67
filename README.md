@@ -64,13 +64,13 @@
 
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-712849%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-712834%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 335 Contributions in the Year 2021
+> 🏆 336 Contributions in the Year 2021
  > 
 > 📦 117.4 kB Used in Github's Storage 
  > 
@@ -109,7 +109,7 @@ Sunday       101 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💻 Operating System: 
-Windows                  2 hrs 45 mins       █████████████████████████   100.0%
+Windows                  1 hr 58 mins        █████████████████████████   100.0%
 
 ```
 
@@ -130,7 +130,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Saicharan67/Saicharan67/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/08/2021
+ Last Updated on 05/08/2021
 <!--END_SECTION:waka-->
   
   
