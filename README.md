@@ -64,13 +64,13 @@
 
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-712636%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-712535%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 340 Contributions in the Year 2021
+> 🏆 341 Contributions in the Year 2021
  > 
 > 📦 117.5 kB Used in Github's Storage 
  > 
@@ -84,8 +84,8 @@
 
 ```text
 🌞 Morning    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
-🌆 Daytime    183 commits    ██████░░░░░░░░░░░░░░░░░░░   25.85% 
-🌃 Evening    464 commits    ████████████████░░░░░░░░░   65.54% 
+🌆 Daytime    182 commits    ██████░░░░░░░░░░░░░░░░░░░   25.71% 
+🌃 Evening    465 commits    ████████████████░░░░░░░░░   65.68% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -109,7 +109,7 @@ Sunday       101 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💻 Operating System: 
-Windows                  2 hrs 40 mins       █████████████████████████   100.0%
+Windows                  3 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
@@ -130,7 +130,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Saicharan67/Saicharan67/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/08/2021
+ Last Updated on 10/08/2021
 <!--END_SECTION:waka-->
   
   
