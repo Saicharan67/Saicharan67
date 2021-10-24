@@ -64,13 +64,13 @@
 
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-712698%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-712753%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 450 Contributions in the Year 2021
+> 🏆 451 Contributions in the Year 2021
  > 
 > 📦 118.4 kB Used in GitHub's Storage 
  > 
@@ -97,8 +97,8 @@ Tuesday      96 commits     ███░░░░░░░░░░░░░░�
 Wednesday    108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
 Thursday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
 Friday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-Saturday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
-Sunday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36%
+Saturday     114 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
+Sunday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.23%
 
 ```
 
@@ -130,7 +130,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Saicharan67/Saicharan67/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
   
   
