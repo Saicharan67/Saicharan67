@@ -13,7 +13,7 @@
 [![Mahankalisaicharan@gmail](https://img.shields.io/static/v1?label=mahankalisaicharan@gmail.com.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:mahankalisaicharan@gmail.com)
 
 
-## Talk to me about!!
+# Talk to me about!!
 
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React JS, Redux, Django, Vue3**
 
